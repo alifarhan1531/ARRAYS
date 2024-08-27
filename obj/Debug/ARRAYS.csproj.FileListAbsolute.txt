@@ -1,0 +1,7 @@
+C:\Users\Teacher\Pictures\08E\ARRAYS\ARRAYS\bin\Debug\ARRAYS.exe.config
+C:\Users\Teacher\Pictures\08E\ARRAYS\ARRAYS\bin\Debug\ARRAYS.exe
+C:\Users\Teacher\Pictures\08E\ARRAYS\ARRAYS\bin\Debug\ARRAYS.pdb
+C:\Users\Teacher\Pictures\08E\ARRAYS\ARRAYS\obj\Debug\ARRAYS.csproj.AssemblyReference.cache
+C:\Users\Teacher\Pictures\08E\ARRAYS\ARRAYS\obj\Debug\ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Pictures\08E\ARRAYS\ARRAYS\obj\Debug\ARRAYS.exe
+C:\Users\Teacher\Pictures\08E\ARRAYS\ARRAYS\obj\Debug\ARRAYS.pdb
